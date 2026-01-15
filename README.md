@@ -2,6 +2,12 @@
 
 A professional, full-stack Single Page Application (SPA) for visualizing DVD rental store business metrics using React, GraphQL, and the Sakila sample database.
 
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/947db81a-c916-4c16-8b57-2baf3cb9bb0e" />
+
+<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/ec5e29fa-50f8-42ba-a56a-2af3f59361a0" />
+
+<img width="1906" height="913" alt="image" src="https://github.com/user-attachments/assets/987e205c-051d-4f87-9401-8203a3c415ac" />
+
 ## 🎯 Features
 
 ✅ **5 Interactive Dashboard Components**
